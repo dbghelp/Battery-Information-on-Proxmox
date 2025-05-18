@@ -2,7 +2,7 @@
 
 ## 🔋 Overview
 
-This project allows you to display real-time battery information in the **Proxmox VE Web UI** — useful for laptops, NUCs, or battery-backed systems.
+This project allows you to display real-time battery information in the **Proxmox VE Web UI** — useful for laptops or battery-backed systems.
 
 Tested on: **Proxmox VE 8.4.0**
 
